@@ -1,0 +1,141 @@
+body {
+    font-family: "Avenir Next";
+  }
+  
+  li {
+    list-style: none;
+  }
+  
+  .header {
+    background-color: black;
+    color: #fff;
+    height: 90px;
+  }
+  
+  .header-logo {
+    float: left;
+    font-size: 36px;
+    padding: 20px 40px;
+    font:
+  }
+  
+  .header-list li {
+    float: left;
+    padding: 33px 20px;
+  }
+  
+  .main {
+    padding: 100px 80px;
+  }
+
+  .main img{
+      width:1000px;
+      height:500px;
+  }
+  
+  .copy-container h1 {
+    font-size: 140px;
+    font-weight:bold;
+  }
+  
+  .copy-container h2 {
+    margin-top:-100px;
+    font-size: 80px;
+    font-weight:bold;
+  }
+  
+  .copy-container h3{
+    font-size: 30px;
+    font-weight:bold;
+  }
+
+  .copy-container h4{
+    font-size: 30px;
+    font-weight:bold;
+  }
+  .copy-container h5{
+    font-size: 30px;
+    font-weight:bold;
+  }
+
+  .copy-container h7{
+    font-size: 50px;
+    font-weight:bold;
+  }
+
+  .copy-container h8{
+    font-size: 50px;
+    font-weight:bold;
+  }
+
+  .copy-container h9{
+    font-size: 30px;
+    font-weight:bold;
+  }
+
+  .contents {
+    height: 500px;
+    margin-top: 100px;
+  }
+  
+  .section-title {
+    border-bottom: 2px solid #dee7ec;
+    font-size: 28px;
+    padding-bottom: 15px;
+    margin-bottom: 50px;
+  }
+  
+  .contents-item{
+    float: left;
+    margin-right: 40px;
+  }
+
+  .contents-item img{
+    width:500px;
+    height:500px;
+  }
+  
+  .contents-item p {
+    font-size: 24px;
+    margin-top: 30px;
+  }
+  
+  .contact-form {
+    padding-top: 200px;
+  }
+  
+  /* inputとtextareaのCSSを指定してください */
+  input,textarea{
+    width:400px;
+    margin-top:10px;
+    margin-bottom:30px;
+    padding:20px;
+    font-size:18px;
+    border:1px solid #dee7ec;
+  }
+  
+  .contact-submit{
+    background:#dee7ec;
+    color:#889eab;
+  }
+  
+  .footer {
+    background-color: black;
+    color: #fff;
+    height: 120px;
+    padding: 40px;
+  }
+  
+  .footer-logo {
+    float: left;
+    font-size: 32px;
+  }
+  
+  .footer-list {
+    float: right;
+  }
+  
+  .footer-list li {
+    padding-bottom: 20px;
+  }
+  
